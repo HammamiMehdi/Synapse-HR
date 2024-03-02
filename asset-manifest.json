@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Synapse-HR/static/css/main.f797dfcd.css",
+    "main.js": "/Synapse-HR/static/js/main.f06967dc.js",
+    "static/media/imagevideo.png": "/Synapse-HR/static/media/imagevideo.7593353fd6dc33b7f853.png",
+    "static/media/mobile.webp": "/Synapse-HR/static/media/mobile.48f827294cff330105ab.webp",
+    "static/media/web.webp": "/Synapse-HR/static/media/web.9f2ad966e9ae15f30d02.webp",
+    "static/media/event5.webp": "/Synapse-HR/static/media/event5.51cf657aea04382973cb.webp",
+    "static/media/event6.webp": "/Synapse-HR/static/media/event6.f6bbc14c54f39769275d.webp",
+    "static/media/Image.png": "/Synapse-HR/static/media/Image.96a298541793fd6073c2.png",
+    "static/media/event1.webp": "/Synapse-HR/static/media/event1.91b64b32c3fbd573be18.webp",
+    "static/media/event2.webp": "/Synapse-HR/static/media/event2.d222df20de5930462d67.webp",
+    "static/media/event3.webp": "/Synapse-HR/static/media/event3.43b124155e8803275278.webp",
+    "static/media/event4.webp": "/Synapse-HR/static/media/event4.b0a1e6cacdd435f9d5e7.webp",
+    "static/media/carouselHeader3.jpg": "/Synapse-HR/static/media/carouselHeader3.b7b7aa83a0edc0a2ff3c.jpg",
+    "static/media/event7.webp": "/Synapse-HR/static/media/event7.f8f4b951210820c89989.webp",
+    "static/media/Shape1.png": "/Synapse-HR/static/media/Shape1.6c5a6cd9ef5aa0fad6c2.png",
+    "static/media/shape4.png": "/Synapse-HR/static/media/shape4.52c9af916b8652c1ba4b.png",
+    "static/media/shapes.png": "/Synapse-HR/static/media/shapes.150b6c0690fd01452b0c.png",
+    "index.html": "/Synapse-HR/index.html",
+    "static/media/chat_smile.svg": "/Synapse-HR/static/media/chat_smile.f023cbcad110f7ada7e11ac469be77bb.svg",
+    "main.f797dfcd.css.map": "/Synapse-HR/static/css/main.f797dfcd.css.map",
+    "main.f06967dc.js.map": "/Synapse-HR/static/js/main.f06967dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f797dfcd.css",
+    "static/js/main.f06967dc.js"
+  ]
+}
