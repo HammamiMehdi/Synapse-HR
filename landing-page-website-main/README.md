@@ -2,7 +2,7 @@
 
 <br/>
 
-![Banner Landing Page Synapse-HR](src/assets/img/banner.png)
+![Banner Landing Page Synapse-HR](src/assets/img/1685625769109.png)
 
 <br/>
 
