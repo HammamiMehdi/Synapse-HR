@@ -8,7 +8,7 @@
 
 ## Description
 
-This is a ReactJS project from the Synapse HR company website. The project uses the latest web development technologies.
+This is a ReactJS project for the Synapse HR startup. 
 
 ## Installation
 
