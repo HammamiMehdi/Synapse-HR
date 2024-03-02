@@ -14,7 +14,7 @@ This is a ReactJS project from the Synapse HR company website. The project uses 
 
 To install this project on your machine, follow these steps:
 
-1. Clone the repository using the command `git clone https://github.com/Synapse-HR/landing-page-website.git`
+1. Clone the repository using the command `git clone https://github.com/HammamiMehdi/Synapse-HR.git`
 2. Install the project dependencies using the command `npm install`
 
 ## Usage
