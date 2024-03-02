@@ -1,0 +1,70 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-personalisation{
+    background: #2980b9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #2980b9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2c3e50, #2980b9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: aliceblue;
+    display: inline-flex;
+    list-style: none;
+    border-top-right-radius: 40px;
+    border-top-left-radius: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-logo a svg:hover {
+    transition: all 0.2s ease-in-out;
+    transform: scale(1.2);
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+}
+
+
+  
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+  .footer-cat-links a:after {
+    top: 21px;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 50%;
+    position: absolute;
+    width: 0;
+    background: #135ddf;
+    opacity: 50%;
+    -webkit-transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    
+    
+}
+
+.footer-cat-links a {
+    color: #135DDF;
+    text-decoration: none;
+    position: relative;
+}
+
+.footer-cat-links.active > li a {
+    pointer-events: auto;
+}
+
+.footer-cat-links a:hover:after, .footer-cat-links a:focus:after {
+    width: 100%;
+    left: 0;
+}
+
+ .text-color{
+    color: #135DDF;
+ }

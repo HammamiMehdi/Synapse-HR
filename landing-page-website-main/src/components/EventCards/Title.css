@@ -1,0 +1,44 @@
+.app-title {
+  display: inline-block;
+  width: 100%;
+  margin: 80px 0 0 0;
+
+  position: relative;
+  color: #135ddf;
+}
+
+@media (min-width: 768px) {
+  .app-title {
+    width: 20%;
+    margin: 280px 0 0 0;
+  }
+}
+
+.app-title h1 {
+  font-size: 25px;
+  margin: 0;
+  color: #135ddf;
+  font-family: "Montserrat", sans-serif;
+}
+
+.app-title p {
+  font-weight: 200;
+  opacity: 0.7;
+}
+
+.app-title-content {
+  position: absolute;
+  top: 50%;
+  left: 200%;
+  width: 100%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+
+@media (min-width: 768px) {
+  .app-title-content {
+    width: auto;
+    position: absolute;
+    text-align: left;
+  }
+}

@@ -1,0 +1,81 @@
+button {
+    cursor: pointer;
+    font: inherit;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .button {
+    /*background: #F2994A;  /* fallback for old browsers */
+    /*background: -webkit-linear-gradient(to right, #F2C94C, #F2994A);  /* Chrome 10-25, Safari 5.1-6 */
+    /*background: linear-gradient(to right, #F2C94C, #F2994A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    background: #2980b9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #2980b9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2c3e50, #2980b9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    color: #fff;
+    margin-left: 100px;
+    border: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 0.5em 1.25em;
+    border-radius: 2em;
+    z-index: 999;
+    position: relative;
+    display: flex;
+    gap: 0.5em;
+    align-items: center;
+    box-shadow:
+      0px 1.7px 2.2px rgba(0, 0, 0, 0.02),
+      0px 4px 5.3px rgba(0, 0, 0, 0.028),
+      0px 7.5px 10px rgba(0, 0, 0, 0.035),
+      0px 13.4px 17.9px rgba(0, 0, 0, 0.042),
+      0px 25.1px 33.4px rgba(0, 0, 0, 0.05),
+      0px 60px 80px rgba(0, 0, 0, 0.07);
+
+  }
+  
+  .button:active {
+    transform: scale(1.01);
+  }
+
+
+/* all size responsive */
+
+@media screen and (max-width:3840px) {
+}
+
+@media screen and (max-width:2560px) {
+}
+
+@media screen and (max-width:1600px) {
+}
+
+@media screen and (max-width:1400px) {
+}
+
+@media screen and (max-width:1200px) {
+}
+
+@media screen and (max-width:992px) {
+}
+
+@media screen and (max-width:768px) {
+  .button{
+    margin: auto;
+  }
+}
+
+@media screen and (max-width:480px) {
+}
+
+@media screen and (max-width:375px) {
+}
+
+@media screen and (max-width:320px) {
+}
+
+@media screen and (max-width:280px) {
+}
